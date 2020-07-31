@@ -1,7 +1,5 @@
 # Wrestling-Rivalries
 
-This was an assignment for one of my classes.
-
 Prompt:
 Suppose there are two types of professional wrestlers: “Babyfaces” (good guys) and “Heels” (bad guys). 
 Between any pair of professional wrestlers, there may or may not be a rivalry. 
